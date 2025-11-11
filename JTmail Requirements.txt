@@ -1,0 +1,5 @@
+JTmail Requirements
+
+- Standard Microsoft Office 365 plan
+- Google Gemini API account
+- A .csv file with your email outreach prospects
